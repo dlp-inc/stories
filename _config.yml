@@ -5,10 +5,10 @@ description: "This is a blog about software, start-up and life style."
 keywords: "Software Engineering, Start-up, Philosophy"
 colophon: "Content rights reserved. Themed with © MMXIII — MMXVI by Hugo Sereno Ferreira.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
 
-baseurl: ""
-url: "https://dlp-inc.github.io/histories"
+baseurl: "/stories"
+url: "https://dlp-inc.github.io"
 
-google-analytics:
+google-analytics: G-0V6QT6TR8G
 
 simple_search: http://google.com/search
 markdown: kramdown
